@@ -3,7 +3,7 @@ package sloglint_test
 import (
 	"testing"
 
-	"github.com/ifooth/sloglint/sloglint"
+	"github.com/ifooth/sloglint"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 

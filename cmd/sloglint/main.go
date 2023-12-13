@@ -6,7 +6,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/ifooth/sloglint/sloglint"
+	"github.com/ifooth/sloglint"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 
