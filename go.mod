@@ -1,4 +1,4 @@
-module go-simpler.org/sloglint
+module github.com/ifooth/sloglint/sloglint
 
 go 1.20
 
